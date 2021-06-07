@@ -142,5 +142,3 @@ function SideForm(props) {
     </>
   );
 }
-
-export default SideForm;
